@@ -16,4 +16,10 @@ cambio del punto 9
 cambio 2 del punto 9
 >>>>>>> qa_branch
 
+<<<<<<< HEAD
 cambio del punto 12 en main
+=======
+cambio punto 11
+
+cambio 2 punto 11
+>>>>>>> prod_branch
