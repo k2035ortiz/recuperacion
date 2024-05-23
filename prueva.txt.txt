@@ -15,3 +15,5 @@ cambio del punto 9
 
 cambio 2 del punto 9
 >>>>>>> qa_branch
+
+cambio del punto 12 en main
