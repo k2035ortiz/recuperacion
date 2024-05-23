@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+cambio 8 segundo intento
+
+cambio del punto 5
+
+cambio de main antes del merge puntpo 8
+=======
+cambo en dev_branch punto 7
+>>>>>>> dev_branch
+
+<<<<<<< HEAD
+cambio del punto 10 en main
+=======
+cambio del punto 9
+
+cambio 2 del punto 9
+>>>>>>> qa_branch
+
+cambio punto 11
